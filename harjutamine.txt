@@ -1,3 +1,0 @@
-Github on internetiteenus, kus saavad tarkvaraarenduse ja versioonihaldusega tegelevad inimesed oma faile üles laadida, neid muuta, jälgida jne.
-
-Edaspidiselt saan mina kasutada Githubi ükskõik kus. Githubi kasutamiseks ükskõik kus, tuleb mul otsida üles Githubi lehekülg ja seal ennast sisse logida

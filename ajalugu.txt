@@ -1,3 +1,0 @@
-Arendus algas 19. oktoober, 2007.
-Lehekülg tehti kättesaadavaks teistele 2008 aasta aprillis.
-Selle loojateks olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.

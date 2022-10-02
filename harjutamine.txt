@@ -3,3 +3,8 @@ Github on internetiteenus, kus saavad tarkvaraarenduse ja versioonihaldusega teg
 Edaspidiselt saan mina kasutada Githubi ükskõik kus. Githubi kasutamiseks ükskõik kus, tuleb mul otsida üles Githubi lehekülg ja seal ennast sisse logida
 
 Github võib ka edaspidiselt olla minu portfoolio, kus ma saan esitleda enda tehtud programme, arvutusi ja tagantjärgi üle vaadata kunagised õppetunnid, et midagi meelest ei läheks.
+
+Ajalugu:
+Arendus algas 19. oktoober, 2007.
+Lehekülg tehti kättesaadavaks teistele 2008 aasta aprillis.
+Selle loojateks olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.
